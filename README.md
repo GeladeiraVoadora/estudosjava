@@ -1,5 +1,5 @@
 # Estudando Java!
-## _Meu~ ~repositório_
+## _Meu repositório_
 
 Nesse repositório estarei armazenado tudo que eu estudar, além dos exercícios que eu resolver. Dessa forma, você pode encontrar aqui:
 
