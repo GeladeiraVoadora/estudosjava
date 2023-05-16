@@ -1,2 +1,10 @@
-# Estudos de Java!
- This is me studying java! (I'm brazilian, so my comments are been written in portuguese)
+# Estudando Java!
+## _~Meu~ ~repositório~_
+
+Nesse repositório estarei armazenado tudo que eu estudar, além dos exercícios que eu resolver. Dessa forma, você pode encontrar aqui:
+
+- Exercícios resolvidos
+- Testes da sintaxe
+- Anotações (com código e comentário)
+- ✨Magic ✨
+- 
