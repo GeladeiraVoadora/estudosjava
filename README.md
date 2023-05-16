@@ -7,4 +7,3 @@ Nesse repositório estarei armazenado tudo que eu estudar, além dos exercícios
 - Testes da sintaxe
 - Anotações (com código e comentário)
 - ✨Magic ✨
-- 
