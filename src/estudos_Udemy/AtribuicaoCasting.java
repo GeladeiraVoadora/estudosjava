@@ -1,4 +1,4 @@
-package estudos;
+package estudos_Udemy;
 
 public class AtribuicaoCasting {
 	public static void main(String[] args){

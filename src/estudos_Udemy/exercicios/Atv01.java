@@ -1,4 +1,4 @@
-package estudos.exercicios;
+package estudos_Udemy.exercicios;
 
 import java.util.Locale;
 
