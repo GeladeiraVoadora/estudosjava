@@ -7,3 +7,5 @@ Nesse repositório estarei armazenado tudo que eu estudar, além dos exercícios
 - Testes da sintaxe
 - Anotações (com código e comentário)
 - ✨Magic ✨
+
+Existem dois pacotes, um do curso de férias que estou fazendo na UPE, e outro da Udemy.
